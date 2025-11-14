@@ -98,8 +98,8 @@
 
 ### 📈 **Detailed Statistics**
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SS-S3&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SS-S3&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tushar8691&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar8691&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff" />
 </div>
 
 ### 🐍 **Contribution Activity**
@@ -150,9 +150,9 @@
 
 <br><br>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shekharsoumya34@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-shekhar-973039287/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SS-S3)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharsharma86914@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-sharma-86946a29b/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tushar8691)
 
 <br>
 
@@ -165,7 +165,7 @@
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=SS-S3&color=36BCF7&style=for-the-badge)
-  [![GitHub followers](https://img.shields.io/github/followers/SS-S3?color=36BCF7&style=for-the-badge)](https://github.com/SS-S3)
+  [![GitHub followers](https://img.shields.io/github/followers/SS-S3?color=36BCF7&style=for-the-badge)](https://github.com/Tushar8691)
   
 </div>
 
@@ -184,8 +184,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 </div>
-
-<!---
-SS-S3/SS-S3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
